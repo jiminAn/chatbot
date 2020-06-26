@@ -1,0 +1,36 @@
+{
+  "id": "1a573649-fc3c-4f36-ba3b-d36d686809be",
+  "parentId": "524a2865-ff95-4a4e-bc6b-43dd858da76c",
+  "rootParentId": "524a2865-ff95-4a4e-bc6b-43dd858da76c",
+  "name": "IntroProgramming - Python",
+  "auto": true,
+  "contexts": [
+    "IntroProgramming-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "IntroProgramming.IntroProgramming-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": "Python은 인공지능 관련 공부를 하면서 자주 사용하는 언어입니다! Digital Signal Processing 공부를 하면서 주력언어로 사용했습니다ㅎ_ㅎ"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

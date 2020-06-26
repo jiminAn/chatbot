@@ -1,0 +1,40 @@
+{
+  "id": "d5fc9023-1aaa-4d4a-8a33-8fc705c80703",
+  "parentId": "524a2865-ff95-4a4e-bc6b-43dd858da76c",
+  "rootParentId": "524a2865-ff95-4a4e-bc6b-43dd858da76c",
+  "name": "IntroProgramming - fallback",
+  "auto": true,
+  "contexts": [
+    "IntroProgramming-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "IntroProgramming.IntroProgramming-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": [
+            "네^_^ 궁금하시면 언제든 다시 물어봐주세요!",
+            "나중에라도 궁금하면 다시 질문해주세요~",
+            "ㅠ_ㅠ 궁금하게 되면 다시 질문해주세요!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

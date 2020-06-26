@@ -1,0 +1,36 @@
+{
+  "id": "e1f60742-9133-40c9-82d5-6a20b08fe615",
+  "parentId": "524a2865-ff95-4a4e-bc6b-43dd858da76c",
+  "rootParentId": "524a2865-ff95-4a4e-bc6b-43dd858da76c",
+  "name": "IntroProgramming - algorithm",
+  "auto": true,
+  "contexts": [
+    "IntroProgramming-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "IntroProgramming.IntroProgramming-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": "C++은 알고리즘 공부할 때 주력 언어로 공부하고 있습니다^_^ 코딩테스트를 준비하며  열심히 공부하고 있습니다~"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

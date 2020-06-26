@@ -1,0 +1,37 @@
+[
+  {
+    "id": "be43c2ec-f435-4b22-8670-2d4cbffdbb86",
+    "data": [
+      {
+        "text": "Python",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 궁금해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59f7394d-67a3-4ff4-9535-427ce9ad5535",
+    "data": [
+      {
+        "text": "Python",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

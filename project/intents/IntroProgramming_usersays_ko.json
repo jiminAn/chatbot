@@ -1,0 +1,80 @@
+[
+  {
+    "id": "a6ae50f5-e774-4917-9094-5dbf833fea98",
+    "data": [
+      {
+        "text": "다룰 ",
+        "userDefined": false
+      },
+      {
+        "text": "수",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 있는",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b7e4ff1-8500-4a40-b467-9f28a4d595a2",
+    "data": [
+      {
+        "text": "프로그래밍",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "757d4707-9923-48a4-a381-ebeeff0864f5",
+    "data": [
+      {
+        "text": "프로그래밍 언어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bdc05768-cd0f-43e6-9e23-6d1a4bbbca0f",
+    "data": [
+      {
+        "text": "잘하는 프로그래밍 언어는",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5656a400-5536-4c57-9547-df008914942e",
+    "data": [
+      {
+        "text": "어떤 언어를 다룰 ",
+        "userDefined": false
+      },
+      {
+        "text": "수",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 있어?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

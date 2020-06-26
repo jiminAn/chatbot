@@ -1,0 +1,87 @@
+[
+  {
+    "id": "a2b239cc-60b2-457f-9a4f-249af1c43fa6",
+    "data": [
+      {
+        "text": "싫어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55f345bb-c111-4782-88d9-df402b0c035c",
+    "data": [
+      {
+        "text": "괜찮아",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "35cc325e-a316-4261-a67e-8698fe6dde02",
+    "data": [
+      {
+        "text": "됐어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4546c7c7-140c-4f7c-a873-f7f7fb69a54d",
+    "data": [
+      {
+        "text": "나중에",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f16e51d-9187-44f7-912f-5af4c65b322b",
+    "data": [
+      {
+        "text": "안궁금해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e454a368-572d-4ab7-8f18-0ff45950cd2e",
+    "data": [
+      {
+        "text": "아니오",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9caf84d-fbeb-4d2e-80f0-5b6a2b6f8385",
+    "data": [
+      {
+        "text": "아니",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

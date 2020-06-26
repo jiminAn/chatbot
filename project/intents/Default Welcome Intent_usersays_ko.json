@@ -1,0 +1,68 @@
+[
+  {
+    "id": "582ad66e-9383-4943-8dfc-bf551619bb4a",
+    "data": [
+      {
+        "text": "하이",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bbab1d1f-9f8b-45af-ad03-7a1fe90f6e12",
+    "data": [
+      {
+        "text": "안녕하세요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3510c157-efb6-4d16-a079-1d9d1ff262ef",
+    "data": [
+      {
+        "text": "방",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "가방가",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ffed1a6b-643c-43a1-ae69-f3dcf5505d5b",
+    "data": [
+      {
+        "text": "안녕",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c53e4be1-fefd-4264-bd86-7af15736d64d",
+    "data": [
+      {
+        "text": "반가워",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "2d43c184-ac2a-4d9e-84d2-7d0a027f2197",
+    "data": [
+      {
+        "text": "Kotlin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 궁금해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54f18fcd-dd63-4e75-8953-dc054679e862",
+    "data": [
+      {
+        "text": "JAVA",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "가 궁금해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94939db6-a676-4171-8bbe-ef5f64d4f493",
+    "data": [
+      {
+        "text": "Kotlin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ef1d199-8270-4377-b530-24bc40c8426a",
+    "data": [
+      {
+        "text": "JAVA",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

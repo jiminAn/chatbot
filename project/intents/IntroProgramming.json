@@ -1,0 +1,37 @@
+{
+  "id": "524a2865-ff95-4a4e-bc6b-43dd858da76c",
+  "name": "IntroProgramming",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "IntroProgramming-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": "JAVA, Python, C++, C, Kotlin, JavaScript, HTML, CSS을 할 수 있습니다ㅎ_ㅎ 언어마다 잘하는 정도는 달라요. 언어별로 더 자세히 말해드릴까요?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

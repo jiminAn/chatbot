@@ -1,0 +1,35 @@
+{
+  "id": "366dbc32-d8fe-409d-8533-40ed512e41df",
+  "name": "IntroduceName",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": [
+            "안지민이라고 합니다^-^",
+            "순흥 안씨 27대손 입니다~이름은 지민이구요~",
+            "안지민입니다ㅎ_ㅎ"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

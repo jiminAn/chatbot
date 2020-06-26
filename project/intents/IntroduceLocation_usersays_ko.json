@@ -1,0 +1,96 @@
+[
+  {
+    "id": "03180ebf-ff9e-4815-a9b9-11e4545c389f",
+    "data": [
+      {
+        "text": "어디",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "142cd1b7-fb46-400f-969d-f249033d4126",
+    "data": [
+      {
+        "text": "어디 ",
+        "userDefined": false
+      },
+      {
+        "text": "사",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "십니까",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84dc8617-9873-4f70-a921-567378a65104",
+    "data": [
+      {
+        "text": "어디 살아요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "749ee02b-9cdd-4004-8d2b-d4fbd7da9f1a",
+    "data": [
+      {
+        "text": "어디에 거주하세요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae26c4dd-9693-4aed-a548-7a28ae7c92b7",
+    "data": [
+      {
+        "text": "거주지역은?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cc877d61-bd8d-4ef7-bf11-a9cfd6b802b1",
+    "data": [
+      {
+        "text": "거주지역",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25b943a5-7bd6-4819-97f2-e34269814d92",
+    "data": [
+      {
+        "text": "어디 살아?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

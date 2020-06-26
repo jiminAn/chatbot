@@ -1,0 +1,32 @@
+[
+  {
+    "id": "07a5b42c-dd2c-4ee5-95f3-4716af0ffe10",
+    "data": [
+      {
+        "text": "C++",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2c7aff3d-4be4-4a51-942a-477b257710ae",
+    "data": [
+      {
+        "text": "C++",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "이 궁금해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

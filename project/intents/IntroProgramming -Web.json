@@ -1,0 +1,36 @@
+{
+  "id": "8a87a3c8-ca86-48ef-afb5-29db8a98d965",
+  "parentId": "524a2865-ff95-4a4e-bc6b-43dd858da76c",
+  "rootParentId": "524a2865-ff95-4a4e-bc6b-43dd858da76c",
+  "name": "IntroProgramming -Web",
+  "auto": true,
+  "contexts": [
+    "IntroProgramming-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "IntroProgramming.IntroProgramming-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": "웹 개발 시에 사용해본 언어입니다! 간단한 웹 정도만 개발해봐서 아직 이 언어는 초보 수준입니다ㅠ_ㅠ"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

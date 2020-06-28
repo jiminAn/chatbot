@@ -22,8 +22,6 @@ Dockerfile & kubernetes yami file must be include in your github repository
 
 # REST API 생성
 
-## 1단계
-
 도커 이미지화
 
 ``` % docker build -t gcr.io/{project id}/chatbot-api:v1 . ```
@@ -48,11 +46,9 @@ Service 등록
 
 ``` %kubectl create -f chatbot-api-svc.yaml ```
 
+### 예제:)
 
-## 예제:)
-
-
-"http://{service external ip}:80/chat?sentence=Hi"
+"http://{service external ip}:80/chat?sentence=가장 좋아하는 라면은?"
 
   
 
